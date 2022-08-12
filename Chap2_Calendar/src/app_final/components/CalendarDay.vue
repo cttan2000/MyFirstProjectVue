@@ -11,8 +11,6 @@
 			</div>
 </template>
 
-
-
 <script>
 import { store } from '../store.js';
 import CalendarEvent from './CalendarEvent.vue';
