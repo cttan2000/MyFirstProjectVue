@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "title": "The Fullstack Tee",
+        "description": "The original Fullstack clothing item. Always prepared to keep your style in check.",
+        "price": 15.99,
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "title": "The Fullstack Jacket",
+        "description": "Keep warm and protected with the rugged, durable Fullstack lightweight jacket.",
+        "price": 49.99,
+        "quantity": 2
+    }
+]
