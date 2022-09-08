@@ -16,12 +16,6 @@
         <div class="column is-6 column--align-center">
           <router-view></router-view>
         </div>
-        <!-- <div class="column is-3">
-          <CartList />
-        </div>
-        <div class="column is-9">
-          <ProductList />
-        </div> -->
       </div>
     </div>
   </div>
